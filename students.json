@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Vaishant",
+        "age": 17,
+        "branch": "Aeronautics"
+    },
+    {
+        "name": "Rahul",
+        "age": 19,
+        "branch": "CSE"
+    },
+    {
+        "name": "Gabriel",
+        "age": 19,
+        "branch": "Mechanical"
+    }
+]
