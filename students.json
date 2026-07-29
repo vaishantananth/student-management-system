@@ -1,17 +1,17 @@
 [
     {
         "name": "Vaishant",
-        "age": 17,
-        "branch": "Aeronautics"
+        "age": 18,
+        "branch": "aeronautical"
     },
     {
-        "name": "Rahul",
-        "age": 19,
-        "branch": "CSE"
+        "name": "vaishant ananth",
+        "age": 18,
+        "branch": "aeronautical"
     },
     {
-        "name": "Gabriel",
-        "age": 19,
-        "branch": "Mechanical"
+        "name": "rahul",
+        "age": 18,
+        "branch": "mechanical"
     }
 ]
